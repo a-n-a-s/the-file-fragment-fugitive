@@ -20,34 +20,6 @@ Find the branches that time forgot,
 Assemble the fragments they quietly got.
 ```
 
-### Category
-**File Treasure Hunt + Branch Navigation** - Multi-branch puzzle requiring discovery and assembly.
-
-### Difficulty
-**Expert** (40 points) - 4+ steps, 20-30 minutes
-
----
-
-## Instructions
-
-> ⚠️ **Warning:** The validation code is fragmented across this repository.
-
-### What You Know
-
-1. The code is split into **3 fragments**
-2. Each fragment lives in a **different branch**
-3. Fragments are stored in **hidden files**
-4. You must assemble them in the **correct order**
-5. Final format: `ALL_CAPS_WITH_UNDERSCORES`
-
-### What You Need to Discover
-
-- Which branches exist (beyond the default)
-- Where the fragment files are hidden in each branch
-- What order the fragments should be assembled
-- How the fragments combine to form the validation code
-
----
 
 ## Hints
 
@@ -81,24 +53,3 @@ Fragment 1 + Fragment 2 + Fragment 3 = Complete Code
 
 </details>
 
----
-
-## Submission
-
-Submit your validation code in the format: `ALL_CAPS_WITH_UNDERSCORES`
-
-**Example:** `EXAMPLE_CODE_HERE`
-
----
-
-## Credits
-
-- **Challenge Author:** Anas
-- **Category:** File Treasure Hunt + Branch Navigation
-- **Part of:** Git Arcana Challenge Series
-
----
-
-## License
-
-This challenge is part of the Git Arcana collection.
